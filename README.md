@@ -15,6 +15,7 @@ This work will help leadership make informed business decisions to prevent user 
 **Data Understanding**
 
 The data consisted of 14999 entries and 13 features. The features included information on the number of occurrences of a user opening the app during the month, the type of device a user starts a session with, the number of days since a user signed up for the app, total kilometers driven during the month, and number of days the user opens the app during the month. The pie chart below shows the number of users by device. 
+
 ![](images/pie.png)
 There are nearly twice as many iPhone users as Android users represented in this data.
 
@@ -22,6 +23,7 @@ A histogram that, for each day, has a bar representing the counts of driving_day
 ![](images/days-hist.png)
 
 A histogram that has four bars—one for each device-label combination—to show how many iPhone users were retained/churned and how many Android users were retained/churned.
+
 ![](images/hist.png)
 
 Another histogram represents the churn rate for each number of driving days.
